@@ -1,6 +1,6 @@
 # BasisTechnology | IT company portfolio
 
-Live Link: https://servicec-agency.netlify.app/
+Live Link: https://basistechnology.netlify.app/
 
 ### Technology
 HTML, CSS, Bootstrap, Jquery
